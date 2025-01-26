@@ -7,8 +7,6 @@ import Enum.*;
 public class Main {
     public static void main(String[] args) throws IOException {
         System.out.println("HELLO GUYS");
-        System.out.println("HELLO GUYS 2");
-        System.out.println("HELLO GUYS 3");
         Scanner s = new Scanner(System.in);
         System.out.println("Введите пример согласно формату:\n" +
                 "(римское число/арабское) (операнд) (римское число/арабское)\n" +
